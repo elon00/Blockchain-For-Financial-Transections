@@ -1,35 +1,5 @@
 {
-  "engine": "REA_Reverse_Engineer_Anything",
-  "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 9,
-  "manifest": {
-    "Amazon book link": {
-      "bytes": 51
-    },
-    "Blockchain for Financial Transections fronpage.jpg": {
-      "bytes": 133645
-    },
-    "README.md": {
-      "bytes": 577
-    },
-    "reports\\RAVEN_RSI_DIAGNOSTIC.json": {
-      "bytes": 388
-    },
-    "reports\\REA_ANALYSIS.json": {
-      "bytes": 637
-    },
-    "scripts\\rea_inspector.py": {
-      "bytes": 1485
-    },
-    "scripts\\rsi_engine.py": {
-      "bytes": 2039
-    },
-    "tests\\reality_check_harness.py": {
-      "bytes": 1250
-    },
-    ".github\\workflows\\qmoosa-rsi-rea-sync.yml": {
-      "bytes": 531
-    }
-  },
-  "timestamp": 1794220540
+  "engine": "REA_Inspector",
+  "timestamp": 1794238872,
+  "total_files": 9
 }
